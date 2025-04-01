@@ -1,1 +1,1 @@
-# Trabalho-Extensionista-Aplica-o-de-Cloud-IoT-e-Ind-stria-4.0-em-Python.
+
