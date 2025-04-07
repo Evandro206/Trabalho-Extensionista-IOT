@@ -26,6 +26,8 @@ Programa desenvolvido para controlar um ventilador via radiofrequencia 433mhz, m
  - ['Panorama geral dos efeitos da temperatura na saúde humana – Revisão sistemática' - Renata Miguel Da Silva, Aline Sarmento Procopio](https://www.researchgate.net/publication/378483386_Panorama_geral_dos_efeitos_da_temperatura_na_saude_humana_-_Revisao_sistematica​)
   - ['Onda de calor: qual é a temperatura máxima que uma pessoa pode suportar?' - National Geographic Brasil](https://www.nationalgeographicbrasil.com/ciencia/2023/07/onda-de-calor-qual-e-a-temperatura-maxima-que-uma-pessoa-pode-suportar​)
    - ['Como evitar os efeitos negativos da baixa umidade do ar?' - serconmed](https://serconmed.com.br/efeitos-negativos-baixa-umidade-do-ar/​)
+   - ['Doenças Causadas Pela Umidade Excessiva' - Thermomatic](https://www.thermomatic.com.br/fique-por-dentro/doencas-causadas-pela-umidade-excessiva.html)
+   - ['O que a baixa umidade do ar pode provocar na saúde humana?' - Lillian Sibila Dala Costa](https://canaltech.com.br/saude/o-que-a-baixa-umidade-do-ar-pode-provocar-na-saude-humana-225498/)
     
 
 
@@ -38,6 +40,7 @@ Programa desenvolvido para controlar um ventilador via radiofrequencia 433mhz, m
 ![IoT](https://img.shields.io/badge/IoT-Connected%20Devices-orange?style=flat-square&logo=internetofthings&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-Project%20Management-blue?style=flat-square&logo=jira&logoColor=white)
 ![Xively](https://img.shields.io/badge/Xively-IoT%20Platform-blue?style=flat-square)
+
 
 
 
