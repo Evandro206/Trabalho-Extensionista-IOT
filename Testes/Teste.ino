@@ -9,7 +9,7 @@ RCSwitch mySwitch = RCSwitch();
 const int RF_TRANSMITTER_PIN = 11; // Pino do Arduino conectado ao pino DATA do transmissor RF
 
 // --- Códigos RF ---
-#define FAN_OFF_CODE  // setar valores     
+#define FAN_OFF_CODE      // setar valores     
 #define FAN_SPEED_1_CODE  // setar valores
 #define FAN_SPEED_2_CODE  // setar valores
 #define FAN_SPEED_3_CODE  // setar valores
