@@ -1,12 +1,12 @@
 #include <SoftwareSerial.h> // Para comunicação com o ESP8266
-#include <RCSwitch.h>     // Para controlar o transmissor RF
+#include <RCSwitch.h>       // Para controlar o transmissor RF
 
 // --- Configuração da Comunicação Serial com o ESP8266 ---
 SoftwareSerial espSerial(2, 3); 
 
 // --- Configuração do Transmissor RF ---
 RCSwitch mySwitch = RCSwitch();
-const int RF_TRANSMITTER_PIN = 11; // Pino do Arduino conectado ao pino DATA do transmissor RF
+const int RF_TRANSMITTER_PIN = 11; 
 
 // --- Códigos RF ---
 #define FAN_OFF_CODE      // setar valores     
@@ -17,9 +17,9 @@ const int RF_TRANSMITTER_PIN = 11; // Pino do Arduino conectado ao pino DATA do 
 #define FAN_SPEED_5_CODE  // setar valores
 
 // --- Configurações do Sinal RF (Exemplos - SUBSTITUA!) ---
-#define RF_BIT_LENGTH   24        // Número de bits do seu código RF (comum ser 24)
-#define RF_PROTOCOL     1         // Protocolo RF (o padrão da RCSwitch é 1, tente outros se não funcionar: 1 a 7)
-// #define RF_PULSE_LENGTH 350    // Opcional: Duração do pulso em microssegundos. Descomente e ajuste se necessário.
+#define RF_BIT_LENGTH   24        
+#define RF_PROTOCOL     1         
+// #define RF_PULSE_LENGTH 350   
 
 void setup() {
   Serial.begin(9600);
